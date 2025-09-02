@@ -1,14 +1,17 @@
-# Netflix-GPT
+# App Login Screen
 
-- Create react app through vite
+- Created react app through vite
 - configured Tailwind CSS
 
 # Features
-- Login/SignUp
-- Browse (comes after authentication)
-  - Header
-  - Main Movie
-    - Trailer in bachground
-    - Title & Description
-    - MovieSuggestions
-      - Movies List * n
+- Landing Screen
+  - Heading
+  - Paragraph
+  - Create Account Button
+    - Create Account Form Page
+    - User Details Page with profile pic
+    - Option for uploading profile picture from computer
+  - Already registered/Login page
+    - Login Form Page
+    - User Details Page with profile pic
+    - Option for uploading profile picture from computer
